@@ -179,7 +179,7 @@ If you use this work in your research, please cite:
 @techreport{fang2024randoop,
   title={Randoop-Based Automated Testing of Go Data Structures via Java Translation},
   author={Fang, Zirui},
-  year={2024},
+  year={2025},
   institution={Academic Research Project}
 }
 ```
