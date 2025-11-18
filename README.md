@@ -4,11 +4,6 @@
 
 # Randoop Experimental repOK Source Code & Analysis
 
-![Java](https://img.shields.io/badge/Java-17-blue)
-![Randoop](https://img.shields.io/badge/Randoop-4.3.3-green)
-![Coverage](https://img.shields.io/badge/Coverage-61--94%25-yellow)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-
 ## 👨‍💻 Author
 **Zirui Fang**  
 *September 2025*
