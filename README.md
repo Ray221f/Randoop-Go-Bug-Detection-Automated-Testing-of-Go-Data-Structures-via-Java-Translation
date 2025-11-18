@@ -2,7 +2,7 @@
 ![Randoop](https://img.shields.io/badge/Randoop-4.3.3-green)
 ![Coverage](https://img.shields.io/badge/Coverage-61--94%25-yellow)
 
-# Randoop Experimental repOK Source Code & Analysis
+# Randoop-Go-Bug-Detection: Automated Testing of Go Data Structures via Java Translation
 
 ## 👨‍💻 Author
 **Zirui Fang**  
