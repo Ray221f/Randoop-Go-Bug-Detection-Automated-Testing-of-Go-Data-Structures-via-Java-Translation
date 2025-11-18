@@ -19,18 +19,20 @@ The project demonstrates the use of representation invariants (repOK methods) to
 
 ## 🏗️ Project Structure
 
-Randoop-Experimental-repOK-Source-code-and-Analysis/
-├── src/
-│ ├── List.java
-│ ├── AvlTree.java
-│ ├── list_rep.java # List repOK implementation
-│ └── avltree_rep.java # AVL Tree repOK implementation
-├── tests/
-│ ├── RegressionTest*.java # Randoop regression tests
-│ └── ErrorTest.java # Error-revealing tests (if any)
-├── coverage/ # Coverage reports (screenshots/data)
-└── docs/
-└── Randoop_Project_Report.pdf
+
+      Randoop-Experimental-repOK-Source-code-and-Analysis/
+      ├── src/
+      │   ├── List.java
+      │   ├── AvlTree.java
+      │   ├── list_rep.java          # List repOK implementation
+      │   └── avltree_rep.java       # AVL Tree repOK implementation
+      ├── tests/
+      │   ├── RegressionTest*.java   # Randoop regression tests
+      │   └── ErrorTest.java         # Error-revealing tests (if any)
+      ├── coverage/                  # Coverage reports (screenshots/data)
+      └── docs/
+          └── Randoop_Project_Report.pdf
+
 
 ## 🧪 Experimental Results  
 - ✅ Zero-error test generation  
