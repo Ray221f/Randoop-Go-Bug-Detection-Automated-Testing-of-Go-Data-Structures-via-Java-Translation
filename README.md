@@ -26,8 +26,8 @@ This research project implements and evaluates an automated testing methodology 
 
 ```
 Randoop-Go-Bug-Detection-Automated-Testing-of-Go-Data-Structures-via-Java-Translation/
-├── go_to_java/                    # Translated Java implementations
-│   ├── List.java                  # Dynamic List implementation
+├── go_to_java/                   # Translated Java implementations
+│   ├── List.java                 # Dynamic List implementation
 │   ├── AvlTree.java              # AVL Tree implementation
 │   ├── array_list.go             # Original Go List source
 │   └── avltree.go                # Original Go AVL Tree source
